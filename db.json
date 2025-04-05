@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "SWITCHING REGULATOR (BUCK-1A)",
+        "PN": "LM2675M-3.3",
+        "MF": "NATIONAL SEMICONDUCTOR"
+      },
+      "MID": "MID20271",
+      "MD": "LM2675M-3.3 is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  fixed output voltage of 3.3V. || Design Ref: TBA || Required MIDs: TBA.",
+      "MT": "Electronic Comp.",
+      "MQNT": 4,
+      "MQATG": "#CLASS1",
+      "ML": "102",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20271%2Fmain%2FLM2675M-ADJ-NOPB-National-Semiconductor.pdf",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20271/main/WhatsApp Image 2025-04-05 at 7.53.46 PM.jpeg"
+      ]
+    }
+  ]
+}
